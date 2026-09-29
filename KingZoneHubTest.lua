@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local MainWindow = Rayfield:CreateWindow({
-   Name = "KingZoneHub",
+   Name = "KingZoneHubTest",
    Icon = 0,
    LoadingTitle = "Loading . . .",
    LoadingSubtitle = "by Leo",
